@@ -4,12 +4,10 @@ import os
 
 app = Flask(__name__)
 
-# The directory where your frames are stored
-# IMAGES_DIR = "/home/spaspalakis/Documents/certh/Projects/REACTION/codes/Reaction-ODE/output/frames"
-IMAGES_DIR = "/home/stavros/Documents/certh/projects/REACTION/codes/Reaction-ODE/output/frames"
+# IMAGES_DIR = "/home/stavros/Documents/certh/projects/REACTION/codes/Reaction-ODE/output/frames"
 
-# IMAGES_DIR = "/app/frames"
-# IMAGES_DIR = "./output/frames"
+IMAGES_DIR = "/app/frames"
+
 
 
 
